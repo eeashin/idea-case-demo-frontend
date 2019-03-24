@@ -1,7 +1,7 @@
 
 # idea-case-demo-frontend
 
-###Reat-Redux-App
+### React-Redux-App
 
 **A frontend demo for the full-stack software project course of Haaga_Helia UAS**
  
